@@ -52,7 +52,7 @@ An end-to-end HR analytics project combining a Python/pandas exploratory analysi
 
 > Open `Employee_Performance_Dashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to explore interactively.
 
-![Dashboard Overview](Screenshot/Dashboard.png)
+![Dashboard Overview](Dashboard.png)
 
 ---
 
