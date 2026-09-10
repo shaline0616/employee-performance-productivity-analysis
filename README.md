@@ -9,7 +9,7 @@ An end-to-end HR analytics project combining a Python/pandas exploratory analysi
  
 ## 📌 Project Overview
  
-**Business question:** What drives employee attrition — and can it be predicted from standard HR metrics like department, education, workload, satisfaction, performance, and pay?
+**Business question:** What patterns can be identified in employee attrition across department, education, workload, satisfaction, performance, pay, and tenure?
  
 **Dataset:** 100,000 employee records, 20 columns, covering:
 - Demographics — Department, Gender, Age, Job Title, Education Level
