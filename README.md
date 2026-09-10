@@ -54,12 +54,11 @@ An end-to-end HR analytics project combining a Python/pandas exploratory analysi
  
 ## 🗂️ Repo Contents
  
-- `Project_2_HR_Analytics.ipynb` — Python EDA: cleaning, attrition analysis, charts
-- `Employee Performance Dashboard.pbix` — interactive Power BI dashboard
-- `Dashboard.png` — dashboard screenshot (shown above)
-- `Onyx Data - DataDNA Dataset Challenge - Employee Performance and Productivity Dataset - October 2024.xlsx` — source dataset
-- `README.md` — this file
----
+- Project_2_HR_Analytics.ipynb — Python EDA: cleaning, attrition analysis, charts
+- Employee Performance Dashboard.pbix — interactive Power BI dashboard
+- Dashboard.png — dashboard screenshot
+- Onyx Data - DataDNA Dataset Challenge - Employee Performance and Productivity Dataset - October 2024.xlsx — source dataset
+- README.md — this file
  
 ## 🛠️ Tools & Libraries
  
